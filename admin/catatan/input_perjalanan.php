@@ -26,10 +26,10 @@
                 }
                 ?>
 
-            </select><br>
-            Suhu Tubuh 
+            </select><br>   
+            Suhu Tubuh
             <input type="number" name="suhu_tubuh"><br>
-            <input type="submit" value="simpan">
+            <input class="bg-primary text-light" type="submit" value="Simpan">
             </form>
         </div>
             <div class="card-footer text-body-secondary">
